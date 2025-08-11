@@ -106,7 +106,7 @@ module.exports = {
 
     const helpMsg =
 `☰☰━━━━━━━━━━━━━☰☰
-   ≡ 𝗩ⓞ𝗟𝗗𝗜𝗚ⓞ⊶⊷𝗕ⓞ𝗧  ≡
+   ≡ Camille Bot 😎😎🔥≡
 ☰☰━━━━━━━━━━━━━☰☰
 
 ┍━[ 🔎 AIDE DE LA CMD ]
