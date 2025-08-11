@@ -59,7 +59,7 @@ module.exports = {
       msg += `┋≡ TOTAL CMD: ${commands.size}\n`;
       msg += `┋≡ PREFIX : ${prefix}\n`;
       msg += `┋≡ CREATOR : Voldigo Zaraki Anos\n`;
-      msg += `┋≡ FACEBOOK :https://facebook.com/voldigo.zaraki\n`;
+      msg += `┋≡ FACEBOOK :https://www.facebook.com/profile.php?id=61578153767211`;
       msg += `┕━━━━━━━━━━━━☰\n`;
 
       // Envoi du message et de l'image en même temps
